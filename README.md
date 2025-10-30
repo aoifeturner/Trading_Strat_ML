@@ -35,5 +35,7 @@ add here
 ---
 ## Author
 Aoife Turner
+
 Columbia University SEAS '28
+
 Computer Science Major, Economics Minor
